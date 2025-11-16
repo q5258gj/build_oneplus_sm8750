@@ -17,7 +17,7 @@ https://t.me/qdyKernel/405
 > `git clone https://github.com/abcd/123456.git`
 ---
 ```bash
-git clone https://github.com/showdo/build_oneplus_sm8750.git
+git clone https://github.com/q5258gj/build_oneplus_sm8750.git
 ```
 ```bash
 cd build_oneplus_sm8750
